@@ -8,7 +8,7 @@
 
 2002/3-2005 :   **Diploma, Statistics** [Addis Ababa University](http://www.aau.edu.et/),Ethiopia
                                     
-2020:  Certificate  **Oracle cloud Infrastructure Foundation 2020 Associate**                               
+2020:  Certificate     [**Oracle cloud Infrastructure Foundation 2020 Associate** ](https://www.youracclaim.com/badges/a3740a86-4446-46cb-8b2a-ef353ba7900a?source=linked_in_profile)                            
 
 2021(Feb-May) : **Software Development Deep Stack Bootcamp** [ KAL Academy’s ](https://www.kalacademy.org/),Seattle, WA 
 
@@ -17,11 +17,11 @@
 
 <strong>Head IT Service Desk</strong>
 **_[Dashen Bank Sc]() (2018-2019)_** <br>
-    • Manage Implementation ITSM Solution <br>
-    • Manage Development of Dispute Management System <br>
-    • Coordinate user Support <br> 
-    • Participate in the implementation of IT department Rode map <br>
-    • Manage User Identify  and Security <br><br>
+    • Manage Implementation of ITSM Solution <br>
+    • Manage Development of Dispute Management System  for the Finance Depatment <br>
+    • Coordinate over all  user Support <br> 
+    • Participate in the implementation of IT department Rode Map <br>
+    • Cordinate and control Identity & Access Mgmt <br><br>
 <strong>Senor System Administrator</strong>
 **_[Dashen Bank sc](https://dashenbanksc.com/) (2013-2017)_** <br>
 
@@ -42,21 +42,19 @@
 
 
 <h2>Projects<h2>
---------------------
 <h4> Photo Gallery <h4> 
---------------------
+
 A Universal Windows Platform photo viewer written in C# in Visual Studio. Users can view and organize their picture in albums, add description, set cover picture for the album, display the picture based on category and   as a single picture  as needed .  [GitHub Link](https://github.com/mike4741/Kal-Academy-Assigment)<br>
 
---------------------
 <h4>Expense Tracking<h4> 
 --------------------
 A Mobile App desigend and written using  C# and XMAL Visual Studio microsoft. This mobile app let the user set  budget for the month input their monthly goal  and  rigister detail of expense using the app [GitHub Link](https://github.com/mike4741/ExpenseManagment)<br>
 
 
 
---------------------
+
 <h4>Eventbrite <h4> 
---------------------
+
 
 A project I design to teach my self the fundamental of Microservice system Architecture I developed  self-service online ticketing  system . Use Docker to generate containers for each microservice, including Catalog, Cart, Order, and Web MVC. API calls were used as means for communication between microservices, SQL and Redis cache were used for the data store and token service was used for single user authentication. Stripe was used to simulate payments. Deployment with Kubernetes  [GitHub Link](https://github.com/mike4741/EventAPIFinal-)<br>
    
