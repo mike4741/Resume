@@ -3,7 +3,9 @@
 <p align="center"> Dallas, Tx | (240) 676-6327) | <a href="mailto:me.menge47@gmail.com">me.menge47@gmail.com</a> | <a href="https://github.com/<a>mike4741">GitHub.com</a> |<a href="www.linkedin.com/in/ 
 michael-m-7b2ba4b3
 ">Linkedin.com</a></p>
-<h2>Summary  </h2> I am seeking a position in the Microsoft LEAP program for a Software Engineer Apprenticeship program , I am self-motivated  graduate with a Bsc in Computer science,Strong business development professional    Experienced and demonstrated history of working in the IT industry in the past .Due to the covid 19 pandamic i was not in the workfore in  a year 2020  I use the time to learn new things attended KAL Academy’s Full Stack Bootcamp and learn new techanology got a new skilles in Docker Container , kubernetes ,ASP.NET, C# , Transact-SQL (T-SQL), Software Development, and SQL. 
+<h2>Summary  </h2> 
+I am seeking a position in the Microsoft LEAP program for a Software Engineer Apprenticeship program , I am self-motivated  graduate with a Bsc in Computer science,Strong business development professional    Experienced and demonstrated history of working in the IT industry in the past .Due to the covid 19 pandamic i was not in the workfore in  a year 2020  I use the time to learn new things attended KAL Academy’s Full Stack Bootcamp and learn new techanology got a new skilles in Docker Container , kubernetes ,ASP.NET, C# , Transact-SQL (T-SQL), Software Development, and SQL. 
+
 
 <h2>Experience</h2>
 
@@ -30,30 +32,34 @@ michael-m-7b2ba4b3
 •   Develop RAD documentation, flowcharts, layouts, diagrams, charts, code comments. <br>
 •   Test and deploying programs and applications <br>
 •    Troubleshooting, debug, maintain and improving existing software <br>
-•   Compiling and assisting user feedback to improve software performance<br>
+•   Compiling and assisting user feedback to improve software performance
 <h2>Project</h2>
 
-<h4> Photo Gallery <h4> 
+Photo Gallery <br>
 
-A Universal Windows Platform photo viewer written in C# in Visual Studio. Users can view and organize their picture in albums, add description, set cover picture for the album, display the picture based on category and   as a single picture  as needed .  [GitHub Link](https://github.com/mike4741/Kal-Academy-Assigment)<br>
+A Universal Windows Platform photo viewer written in C# in Visual Studio. Users can view and organize their picture in albums, add description, set cover picture for the album, display the picture based on category and   as a single picture  as needed . [GitHub Link](https://github.com/mike4741/Kal-Academy-Assigment)<br>
 
-<h4>Expense Tracking<h4> 
+Expense Tracking<br>
+A Mobile App desigend and written using  C# and XMAL Visual Studio microsoft. This mobile app let the user set  budget for the month input their monthly goal  and  rigister detail of expense using the app. <br>
 
-A Mobile App desigend and written using  C# and XMAL Visual Studio microsoft. This mobile app let the user set  budget for the month input their monthly goal  and  rigister detail of expense using the app [GitHub Link](https://github.com/mike4741/ExpenseManagment)<br>
+[GitHub Link](https://github.com/mike4741/ExpenseManagment)<br>
 
+Eventbrite<br> 
 
-
-<h4>Eventbrite <h4> 
-
-A project I design to teach my self the fundamental of Microservice system Architecture I developed  self-service online ticketing  system . Use Docker to generate containers for each microservice, including Catalog, Cart, Order, and Web MVC. API calls were used as means for communication between microservices, SQL and Redis cache were used for the data store and token service was used for single user authentication. Stripe was used to simulate payments. Deployment with Kubernetes  [GitHub Link](https://github.com/mike4741/EventAPIFinal-)<br>
+A project I design to teach my self the fundamental of Microservice system Architecture I developed self-service online ticketing  system . Use Docker to generate containers for each microservice, including Catalog, Cart, Order, and Web MVC. API calls were used as means for communication between microservices, SQL and Redis cache were used for the data store and token service was used for single user authentication. Stripe was used to simulate payments. Deployment with Kubernetes [GitHub Link](https://github.com/mike4741/EventAPIFinal-)<br>
 
 <h2>Skills</h2>
 
-Languages : C# ,C++,TypeScript ,T-SQL, Java, XML, HTML <br>
-Frameworks :  .NET Core, NetBeans<br>
-Databases : MySQL, Oracle ,SQL Server, Redis  <br>
-Data Modeling Tools: SSMS, ER studio, Microsoft Visio<br>
-BI Tools :   SQL Server Data Tools, Visual Studio, SQL Server Data Tools, SSIS, SSRS, Power BI<br>
+Languages : C# ,C++,TypeScript ,T-SQL, Java, XML, HTML 
+
+Frameworks :  .NET Core, NetBeans
+
+Databases : MySQL, Oracle ,SQL Server, Redis  
+
+Data Modeling Tools: SSMS, ER studio, Microsoft Visio
+
+BI Tools :   SQL Server Data Tools, Visual Studio, SQL Server Data Tools, SSIS, SSRS, Power BI
+
 Tools :  Docker,Azure , Kubernit , Postman, Git
 <h2>Soft Skill</h2>
 
