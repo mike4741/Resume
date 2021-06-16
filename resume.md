@@ -1,7 +1,6 @@
 <h1 align="center"> Michael Makonnen </h1>
 
-<p align="center"> Dallas, Tx | (240) 676-6327) | <a href="mailto:me.menge47@gmail.com">me.menge47@gmail.com</a> | <a href="https://github.com/<a>mike4741">GitHub.com</a> |<a href="www.linkedin.com/in/ 
-michael-m-7b2ba4b3
+<p align="center"> Dallas, Tx | (240) 676-6327) | <a href="mailto:me.menge47@gmail.com">me.menge47@gmail.com</a> | <a href="https://github.com/mike4741/Resume.git">GitHub.com</a> |<a href="https://www.linkedin.com/in/michael-m-7b2ba4b3
 ">Linkedin.com</a></p>
 <h2>Summary  </h2> 
 I am seeking a position in the Microsoft LEAP program for a Software Engineer Apprenticeship program , I am self-motivated  graduate with a Bsc in Computer science,Strong business development professional    Experienced and demonstrated history of working in the IT industry in the past .Due to the covid 19 pandamic i was not in the workfore in  a year 2020  I use the time to learn new things attended KAL Academy’s Full Stack Bootcamp and learn new techanology got a new skilles in Docker Container , kubernetes ,ASP.NET, C# , Transact-SQL (T-SQL), Software Development, and SQL. 
@@ -10,7 +9,7 @@ I am seeking a position in the Microsoft LEAP program for a Software Engineer Ap
 <h2>Experience</h2>
 
 <strong>Head IT Service Desk</strong>
-*_[Dashen Bank Sc]() (2018-2019)_* <br>
+*_[Dashen Bank Sc](https://dashenbanksc.com/) (2018-2019)_* <br>
     • Manage Implementation of ITSM Solution <br>
     • Manage Development of Dispute Management System  for the Finance Depatment <br>
     • Coordinate over all  user Support <br> 
